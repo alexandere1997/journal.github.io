@@ -1,1 +1,1 @@
-# journal.github.io
+Запуск командой gulp
